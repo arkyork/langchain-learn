@@ -12,4 +12,6 @@ Agentの作成を行う
 pip install -U langchain
 pip install hf_xet
 pip install torch transformers accelerate langchain_community langchain_huggingface bitsandbytes
+pip install pypdf
+pip install sentence-transformers
 ```

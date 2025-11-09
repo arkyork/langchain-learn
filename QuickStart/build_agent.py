@@ -1,5 +1,4 @@
-from transformers import AutoTokenizer,AutoModelForCausalLM,pipeline,BitsAndBytesConfig
-
+from transformers import BitsAndBytesConfig
 # HuggingFaceのモデルを利用するため
 from langchain_huggingface import ChatHuggingFace, HuggingFacePipeline
 

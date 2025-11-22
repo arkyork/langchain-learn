@@ -1,5 +1,5 @@
 ## LangChain Quickstart Repository
-LangChain/LangGraphを理解するための学習用レポジトリです。
+LangChainを理解するための学習用レポジトリです。
 
 ### Quickstart
 Agentの作成を行う
